@@ -1,4 +1,4 @@
-package com.duck;
+package com.designpattern.duck;
 
 /**
  * @author 李祥华

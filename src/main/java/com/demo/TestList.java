@@ -13,7 +13,7 @@ public class TestList {
 
 
 
-        Integer a1 = 1;
+       /* Integer a1 = 1;
         Integer a2 = 2;
         Integer a3 = 3;
         Vector<Integer> vector = new Vector<Integer>();
@@ -23,8 +23,11 @@ public class TestList {
         System.out.println(vector);
         vector.stream().forEach(v->{
             System.out.println(v);
-        });
+        });*/
 
+
+       Integer a = 3;
+       String str = "aaa";
 
 
     }

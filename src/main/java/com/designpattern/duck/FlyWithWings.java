@@ -1,6 +1,4 @@
-package com.duck;
-
-import java.io.Flushable;
+package com.designpattern.duck;
 
 /**
  * @author 李祥华

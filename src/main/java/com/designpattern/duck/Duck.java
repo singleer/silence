@@ -1,6 +1,4 @@
-package com.duck;
-
-import com.sun.org.glassfish.external.statistics.AverageRangeStatistic;
+package com.designpattern.duck;
 
 /**
  * @author 李祥华
